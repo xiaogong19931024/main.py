@@ -41,4 +41,3 @@ def Main():
     Revealdata(data_dict, index_list)
 #程序入口
 Main()
-#..36626+2+2+26+36626
